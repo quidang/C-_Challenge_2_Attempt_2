@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/CivSem1Challenge2-CarSystem.csproj": {}
+    "C:\\Users\\quida\\OneDrive\\SwinburneContent\\IntroOOProgramming\\C#Challenge#2 RESIT\\CivSem1Challenge2-CarSystem\\CivSem1Challenge2-CarSystem.csproj": {}
   },
   "projects": {
-    "/Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/CivSem1Challenge2-CarSystem.csproj": {
+    "C:\\Users\\quida\\OneDrive\\SwinburneContent\\IntroOOProgramming\\C#Challenge#2 RESIT\\CivSem1Challenge2-CarSystem\\CivSem1Challenge2-CarSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/CivSem1Challenge2-CarSystem.csproj",
+        "projectUniqueName": "C:\\Users\\quida\\OneDrive\\SwinburneContent\\IntroOOProgramming\\C#Challenge#2 RESIT\\CivSem1Challenge2-CarSystem\\CivSem1Challenge2-CarSystem.csproj",
         "projectName": "CivSem1Challenge2-CarSystem",
-        "projectPath": "/Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/CivSem1Challenge2-CarSystem.csproj",
-        "packagesPath": "/Users/anguyen/.nuget/packages/",
-        "outputPath": "/Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/obj/",
+        "projectPath": "C:\\Users\\quida\\OneDrive\\SwinburneContent\\IntroOOProgramming\\C#Challenge#2 RESIT\\CivSem1Challenge2-CarSystem\\CivSem1Challenge2-CarSystem.csproj",
+        "packagesPath": "C:\\Users\\quida\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\quida\\OneDrive\\SwinburneContent\\IntroOOProgramming\\C#Challenge#2 RESIT\\CivSem1Challenge2-CarSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/anguyen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\quida\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

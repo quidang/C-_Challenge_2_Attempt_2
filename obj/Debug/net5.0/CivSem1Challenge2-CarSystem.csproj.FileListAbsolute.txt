@@ -15,3 +15,21 @@
 /Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/obj/Debug/net5.0/ref/CivSem1Challenge2-CarSystem.dll
 /Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/obj/Debug/net5.0/CivSem1Challenge2-CarSystem.pdb
 /Users/anguyen/Projects/CSharp/CivSem1Challenge2-CarSystem/obj/Debug/net5.0/CivSem1Challenge2-CarSystem.genruntimeconfig.cache
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.csproj.AssemblyReference.cache
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.AssemblyInfoInputs.cache
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.AssemblyInfo.cs
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.csproj.CoreCompileInputs.cache
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\ref\CivSem1Challenge2-CarSystem.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.pdb
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\CivSem1Challenge2-CarSystem.exe
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\CivSem1Challenge2-CarSystem.deps.json
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\CivSem1Challenge2-CarSystem.runtimeconfig.json
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\CivSem1Challenge2-CarSystem.runtimeconfig.dev.json
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\CivSem1Challenge2-CarSystem.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\ref\CivSem1Challenge2-CarSystem.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\CivSem1Challenge2-CarSystem.pdb
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.csproj.CopyComplete
+C:\Users\quida\OneDrive\SwinburneContent\IntroOOProgramming\C#Challenge#2 RESIT\CivSem1Challenge2-CarSystem\obj\Debug\net5.0\CivSem1Challenge2-CarSystem.genruntimeconfig.cache

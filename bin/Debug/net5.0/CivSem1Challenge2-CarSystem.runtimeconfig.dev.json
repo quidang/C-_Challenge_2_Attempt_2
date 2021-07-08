@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/anguyen/.dotnet/store/|arch|/|tfm|",
-      "/Users/anguyen/.nuget/packages",
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Users\\quida\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\quida\\.nuget\\packages"
     ]
   }
 }
