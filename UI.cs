@@ -47,8 +47,6 @@ namespace CivSem1Challenge2_CarSystem
                     foreach (CarDealer c in this.CarDealers) {
                     Console.WriteLine(c.GetAddress());
                     }
-
-
                     //----------
                     break;
                 
@@ -82,7 +80,7 @@ namespace CivSem1Challenge2_CarSystem
                 case "4":
                     //TODO: Print the amount of cars in the system
                     // Create and call a method/function named GetNumCars() to do this.
-                    GetNumCars();
+                    Console.WriteLine(this.GetNumCars());
                     break;
 
                 case "5":
@@ -149,31 +147,28 @@ namespace CivSem1Challenge2_CarSystem
         }
 
         //TODO: complete for menu item 5.
-        private int GetTotalCostCarDealers()
-        {
+        private int GetTotalCostCarDealers() {
             return 0;
         }
 
 
         //TODO: create the GetNumCars() method/function here
-        public int GetNumCars() {
-            return this.Cars.Count; 
+        public int GetNumCars() { 
+            return this.Cars.Count;
         }
-
         //---------------------
-
         private string GetCarDetails(string rego)
         {
             //TODO: write code find the relevant car in this.Cars and return the car's details
             // should use the method GetDetails() from Car
-            return null;
         }
-
         //TODO: complete for menu item 2
         private int DealerGetNumListings(int num)
         {
             //TODO: write code find the relevant car dealer by DealerId in this.CarDealers and return the number of listings
             // if num doesn't exist in CarDealers, return -1
+
+            
             return -1;
         }
 
@@ -213,8 +208,8 @@ namespace CivSem1Challenge2_CarSystem
             }
 
             //TODO: create and add the new car to the this.Cars list
-
             System.Console.Write("Enter car dealer id to add the car to: ");
+
             while(!int.TryParse(Console.ReadLine(), out dealerId)) {
                 System.Console.WriteLine("Invalid, enter again");
             }
