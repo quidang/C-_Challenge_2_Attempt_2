@@ -154,22 +154,22 @@ namespace CivSem1Challenge2_CarSystem
 
         //TODO: create the GetNumCars() method/function here
         public int GetNumCars() { 
-            return this.Cars.Count;
+            return this.CarDealers.Count;
         }
         //---------------------
         private string GetCarDetails(string rego)
         {
             //TODO: write code find the relevant car in this.Cars and return the car's details
-            // should use the method GetDetails() from Car
+            // should use the method GetDetails() from 
+            return null;
         }
         //TODO: complete for menu item 2
         private int DealerGetNumListings(int num)
         {
             //TODO: write code find the relevant car dealer by DealerId in this.CarDealers and return the number of listings
             // if num doesn't exist in CarDealers, return -1
-
             
-            return -1;
+            
         }
 
         //TODO:  used for menu item 6
